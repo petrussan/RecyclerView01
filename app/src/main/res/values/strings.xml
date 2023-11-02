@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerView01</string>
+    <string name="title01">Judul 01</string>
+    <string name="title02">Judul 02</string>
+    <string name="title03">Judul 03</string>
+    <string name="title04">Judul 04</string>
+    <string name="title05">Judul 05</string>
+    <string name="desc01">dummy description dummy description dummy description dummy description dummy description dummy description dummy description dummy description dummy description dummy description dummy description </string>
+    <string name="desc02">dummy description dummy description dummy description dummy description dummy description dummy description dummy description dummy description dummy description dummy description dummy description </string>
+
+</resources>
